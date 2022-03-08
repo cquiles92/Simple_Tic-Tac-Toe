@@ -1,0 +1,3 @@
+# Project exclude paths
+/.gradle/
+/Simple Tic-Tac-Toe/task/build/

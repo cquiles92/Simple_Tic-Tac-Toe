@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-test-results.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-tmp.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Package-A_keyword_for_importing_a_class.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Package-Accessible_packages.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Package-Binary_search.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Package-Class_hierarchy.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Package-Correct_packages.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Package-Creating_instances.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Package-Default_packages.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Package-Package_features.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Package-Purpose.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Package-Required_input.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Package-Short_names.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Package-The_default_import.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Package-The_full_name_of_a_class.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Package-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Package-Which_classes_are_accessible.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
